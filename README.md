@@ -15,12 +15,12 @@ sudo apt-get install libsfml-dev
 ### Compiling
 `cd` to the root directory and run 
 ```bash
-  make
+make
 ```
 ### Executing
 ```bash
-  cd build/bin
-  ./runner
+cd build/bin
+./runner
 ```
 ### How to play
 | Keys              | Actions                                                         |
